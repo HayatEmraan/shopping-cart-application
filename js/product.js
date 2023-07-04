@@ -16,7 +16,7 @@ const dataArray = [
   {
     id: 3,
     name: "Product C",
-    price: 5.99,
+    price: 15.99,
     image:
       "https://images.unsplash.com/photo-1661956601031-4cf09efadfce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1476&q=80",
   },
@@ -30,7 +30,7 @@ const dataArray = [
   {
     id: 5,
     name: "Product E",
-    price: 8.49,
+    price: 18.49,
     image:
       "https://images.unsplash.com/photo-1687628511060-d59e84a47006?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
   },

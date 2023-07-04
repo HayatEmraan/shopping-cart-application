@@ -3,14 +3,28 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Creating a Shopping Cart Application</title>
+    <link rel="shortcut icon" href="images/3225209.png" type="image/x-icon">
     <!-- css file link -->
     <link rel="stylesheet" href="styles/style.css" />
+    <!-- fontawesome link -->
+    <script
+      src="https://kit.fontawesome.com/7e6ad6f898.js"
+      crossorigin="anonymous"
+    ></script>
   </head>
   <body>
-
-    <div class="container">
-
+    <div class="container product"></div>
+    <div>
+      <div class="calculate-cart">
+        <div class="order-summary">
+          <h1>Name</h1>
+          <h1>Quantity</h1>
+          <h1>Price</h1>
+          <h1>Total</h1>
+        </div>
+      </div>
+      <h1 class="h1div">Total Price : <span id="calculatePrice"></span></h1>
     </div>
     <!-- js file link  -->
     <script type="module" src="js/script.js"></script>
